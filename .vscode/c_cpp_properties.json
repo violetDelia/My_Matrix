@@ -4,7 +4,9 @@
             "name": "Win32",
             "includePath": [
                 "${default}",
-                "J:/CPP"
+                "J:\\CPP\\My_Vector",
+                "J:\\CPP\\My_Matrix",
+                "${workspaceFolder}"
             ],
             "windowsSdkVersion": "10.0.18362.0",
             "compilerPath": "F:\\Visual studio\\Community\\VC\\Tools\\MSVC\\14.26.28801\\bin\\Hostx64\\x64\\cl.exe",

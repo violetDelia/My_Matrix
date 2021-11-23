@@ -9,7 +9,11 @@
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}\\${fileBasenameNoExtension}.exe"
+                "${fileDirname}\\${fileBasenameNoExtension}.exe",
+                "-I",
+                "J:\\CPP\\My_Vector",
+                "-I",
+                "J:\\CPP\\My_Matrix",
             ],
             "options": {
                 "cwd": "${fileDirname}"

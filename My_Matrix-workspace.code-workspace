@@ -4,5 +4,17 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"initializer_list": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"vector": "cpp",
+			"xmemory": "cpp",
+			"xstring": "cpp",
+			"xtree": "cpp",
+			"type_traits": "cpp",
+			"xtr1common": "cpp"
+		}
+	}
 }
